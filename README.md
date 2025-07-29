@@ -9,7 +9,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bayanalharbi1&theme=nightowl&area=true&hide_border=false" height="300" alt="activity-graph" />
 </div>
 
-
 <h2 align="center">🛠 My Tech Stack</h2>
 
 <table align="center">
@@ -75,12 +74,6 @@
 </tr>
 </table>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bayanalharbi1&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bayanalharbi1&layout=compact&theme=radical" height="150" />
-</div>
 <h2 align="center">🌐 Connect With Me</h2>
 <div align="center">
   <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -88,4 +81,14 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=web&logoColor=white"/></a>
 </div>
 
+<h2 align="center">📊 My GitHub Stats</h2>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bayanalharbi1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bayanalharbi1&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+  <img src="https://streak-stats.demolab.com?user=Bayanalharbi1&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+  <img src="https://github-profile-trophy.vercel.app?username=Bayanalharbi1&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>

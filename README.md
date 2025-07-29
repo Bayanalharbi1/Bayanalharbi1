@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Data Analyst | Bioinformatics Enthusiast</h3>
 
 <div align="center">
-<h3>Hi there 👋</h3>
+  <h3>Hi there 👋</h3>
 </div>
 
 <div align="center">
@@ -81,22 +81,33 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=web&logoColor=white"/></a>
 </div>
 
+<h2 align="center">📊 My GitHub Stats</h2>
 
-<<h2 align="center">📊 My GitHub Stats</h2>
+<div align="center">
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-
-  <!-- Main Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Bayanalharbi1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bayanalharbi1&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false" height="150" alt="Top Languages" />
-
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=Bayanalharbi1&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5" height="150" alt="Streak Stats" />
-
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app?username=Bayanalharbi1&theme=radical&row=1&column=4&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="GitHub Trophies" />
-
+  <!-- الصف الأول -->
+  <div>
+    <h4>🔥 GitHub Stats</h4>
+    <img src="https://github-readme-stats.vercel.app/api?username=Bayanalharbi1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false" height="150" alt="GitHub Stats" />
+  </div>
+  
+  <div>
+    <h4>🌐 Top Languages</h4>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bayanalharbi1&layout=compact&langs_count=8&card_width=320&theme=radical&hide_border=false" height="150" alt="Top Languages" />
+  </div>
 </div>
 
+<br>
+
+<div align="center">
+  <!-- الصف الثاني -->
+  <div>
+    <h4>🔥 Streak</h4>
+    <img src="https://streak-stats.demolab.com?user=Bayanalharbi1&theme=radical&hide_border=false" height="150" alt="GitHub Streak" />
+  </div>
+
+  <div>
+    <h4>🏆 Trophies</h4>
+    <img src="https://github-profile-trophy.vercel.app?username=Bayanalharbi1&theme=radical&no-bg=false&no-frame=false&row=1&column=4" height="150" alt="GitHub Trophies" />
+  </div>
+</div>

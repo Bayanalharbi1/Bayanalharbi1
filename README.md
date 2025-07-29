@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Bayan Alharbi</h1> 
+<h1 align="center">👋 Hi, I'm Bayan Alharbi</h1>
 <h3 align="center">Full Stack Developer | Data Analyst | Bioinformatics Enthusiast</h3>
 
 <div align="center">
@@ -11,29 +11,52 @@
 
 <h2 align="center">🛠 My Tech Stack</h2>
 <div align="center">
-  
-### 🌐 **Front-End**  
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vue,bootstrap,tailwind" height="45" />
 
-### 🔗 **Back-End**  
-<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,nodejs,express,php,laravel" height="45" />
+<h3>🌐 Front-End</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vue,bootstrap,tailwind" height="45" />
+  <br>
+  <strong>Responsive Web Design | UI/UX Design | SEO | Accessibility (WCAG)</strong>
+</p>
 
-### 🗄️ **Databases**  
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,redis" height="45" />
+<h3>🔗 Back-End</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,nodejs,express,php,laravel" height="45" />
+  <br>
+  <strong>API Integration | RESTful Services | MVC Architecture</strong>
+</p>
 
-### 📊 **Data Analysis & Visualization**  
-<img src="https://skillicons.dev/icons?i=python,r,tensorflow" height="45" />  
-**Pandas | NumPy | Scikit-learn | Power BI | Tableau**
+<h3>🗄 Databases</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,redis" height="45" />
+  <br>
+  <strong>Database Design | Query Optimization | Data Integrity</strong>
+</p>
 
-### ⚙ **Tools & Platforms**  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker" height="45" />  
-**Jira | Trello | Adobe XD | Photoshop**
+<h3>📊 Data Analysis & Visualization</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,r,tensorflow" height="45" />
+  <br>
+  <strong>Pandas | NumPy | Scikit-learn | Power BI | Tableau</strong>
+</p>
 
-### ☁️ **Cloud & Deployment**  
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,netlify,heroku" height="45" />
+<h3>⚙ Tools & Platforms</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker" height="45" />
+  <br>
+  <strong>Jira | Trello | Adobe XD | Photoshop</strong>
+</p>
 
-### 🧬 **Bioinformatics**  
-**Genomics | Proteomics | Data-driven Biological Analysis**
+<h3>☁ Cloud & Deployment</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,netlify,heroku" height="45" />
+</p>
+
+<h3>🧬 Bioinformatics</h3>
+<p>
+  <strong>Genomics | Proteomics | Data-driven Biological Analysis</strong>
+</p>
+
 </div>
 
 <h2 align="center">🌐 Connect With Me</h2>

@@ -9,7 +9,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bayanalharbi1&theme=nightowl&area=true&hide_border=false" height="300" alt="activity-graph" />
 </div>
 
----
+<hr style="border: none; border-top: 1px solid #444; width: 90%; margin: 40px auto;">
 
 <h2 align="center">🛠 My Tech Stack</h2>
 
@@ -76,34 +76,22 @@
 </tr>
 </table>
 
----
+<hr style="border: none; border-top: 1px solid #444; width: 90%; margin: 40px auto;">
 
 <h2 align="center">🌐 Connect With Me</h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/bayan-alharbi-/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/Bayanlharbi" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://bayanalharbi1.up.railway.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=web&logoColor=white"/></a>
 </div>
 
----
+<hr style="border: none; border-top: 1px solid #444; width: 90%; margin: 40px auto;">
 
 <h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bayanalharbi1&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bayanalharbi1&layout=compact&theme=dracula" height="150" />
-</div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Bayanalharbi1&theme=dracula" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Bayanalharbi1&theme=dracula&column=6" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bayanalharbi1&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bayanalharbi1&layout=compact&theme=radical" height="150" />
 </div>
 
----
-
-<h2 align="center">😎
+<hr style="border: none; border-top: 1px solid #444; width: 90%; margin: 40px auto;">

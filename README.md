@@ -76,7 +76,6 @@
 </tr>
 </table>
 
-<hr style="border: none; border-top: 1px solid #444; width: 90%; margin: 40px auto;">
 
 <h2 align="center">🌐 Connect With Me</h2>
 <div align="center">
@@ -85,7 +84,6 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=web&logoColor=white"/></a>
 </div>
 
-<hr style="border: none; border-top: 1px solid #444; width: 90%; margin: 40px auto;">
 
 <h2 align="center">📊 GitHub Stats</h2>
 

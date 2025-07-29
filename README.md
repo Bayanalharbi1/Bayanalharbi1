@@ -7,7 +7,7 @@ Hi, I'm Bayan Alharbi</h1>
 <h3 align="center">Full Stack Developer | Data Analyst | Bioinformatics Enthusiast</h3>
 
 <div align="center">
-  <img src="https://via.placeholder.com/900x250.png?text=Bayan+Alharbi+Profile+Banner" />
+  <img src="https://i.ibb.co/hLBV4Tn/Bayan-Alharbi-Tech-Banner.png" alt="Bayan Alharbi Banner" />
 </div>
 
 <div align="center">
@@ -28,6 +28,7 @@ Hi, I'm Bayan Alharbi</h1>
 
 ---
 
+### 🌐 Connect with me:
 <div align="center">
   <a href="https://linkedin.com/in/bayanlharbi" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />

@@ -1,4 +1,17 @@
-ر<h2 align="center">🛠 My Tech Stack</h2>
+<h1 align="center">👋 Hi, I'm Bayan Alharbi</h1>
+<h3 align="center">Full Stack Developer | Data Analyst | Bioinformatics Enthusiast</h3>
+
+<div align="center">
+<h3>Hi there 👋</h3>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bayanalharbi1&theme=nightowl&area=true&hide_border=false" height="300" alt="activity-graph" />
+</div>
+
+---
+
+<h2 align="center">🛠 My Tech Stack</h2>
 
 <table align="center">
 <tr>
@@ -62,3 +75,35 @@
 </td>
 </tr>
 </table>
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+<div align="center">
+  <a href="https://www.linkedin.com/in/bayan-alharbi-/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/Bayanlharbi" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://bayanalharbi1.up.railway.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bayanalharbi1&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bayanalharbi1&layout=compact&theme=dracula" height="150" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Bayanalharbi1&theme=dracula" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bayanalharbi1&theme=dracula&column=6" height="150" />
+</div>
+
+---
+
+<h2 align="center">😎

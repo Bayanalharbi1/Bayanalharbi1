@@ -88,13 +88,10 @@
     <tr>
       <td align="center" style="padding: 15px;">
         <h4>🔥 GitHub Stats</h4>
-        <img src="https://github-readme-stats.vercel.app/api?username=Bayanalharbi1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false" height="150" alt="GitHub Stats" />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m0ohannad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bayanalharbi1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m0ohannad&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bayanalharbi1&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
     
-  <img src="https://github-profile-trophy.vercel.app?username=m0ohannad&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app?username=Bayanalharbi1&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="GitHub Trophies" />
 </div>
 

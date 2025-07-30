@@ -83,14 +83,16 @@
 
 <h2 align="center">📊 My GitHub Stats</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bayanalharbi1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Bayanalharbi1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="170" alt="GitHub Stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bayanalharbi1&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bayanalharbi1&layout=compact&langs_count=8&card_width=320&theme=dracula&hide_border=false" height="170" alt="Top Languages" />
 
-  <img src="https://streak-stats.demolab.com?user=Bayanalharbi1&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
-
-  <img src="https://github-profile-trophy.vercel.app?username=Bayanalharbi1&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="GitHub Trophies" />
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com?user=Bayanalharbi1&theme=dracula&hide_border=false" height="170" alt="GitHub Streak" />
 </div>
+
 
 

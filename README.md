@@ -84,30 +84,25 @@
 <h2 align="center">📊 My GitHub Stats</h2>
 
 <div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding: 15px;">
+        <h4>🔥 GitHub Stats</h4>
+        <img src="https://github-readme-stats.vercel.app/api?username=Bayanalharbi1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false" height="150" alt="GitHub Stats" />
+        
+        <h4>🌐 Top Languages</h4>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bayanalharbi1&layout=compact&langs_count=8&card_width=320&theme=radical&hide_border=false" height="150" alt="Top Languages" />
+      </td>
 
-  <!-- الصف الأول -->
-  <div>
-    <h4>🔥 GitHub Stats</h4>
-    <img src="https://github-readme-stats.vercel.app/api?username=Bayanalharbi1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false" height="150" alt="GitHub Stats" />
-  </div>
-  
-  <div>
-    <h4>🌐 Top Languages</h4>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bayanalharbi1&layout=compact&langs_count=8&card_width=320&theme=radical&hide_border=false" height="150" alt="Top Languages" />
-  </div>
+      <td align="center" style="padding: 15px;">
+        <h4>🔥 Streak</h4>
+        <img src="https://streak-stats.demolab.com?user=Bayanalharbi1&theme=radical&hide_border=false" height="150" alt="GitHub Streak" />
+        
+        <h4>🏆 Trophies</h4>
+        <img src="https://github-profile-trophy.vercel.app?username=Bayanalharbi1&theme=radical&no-bg=false&no-frame=false&row=1&column=4" height="150" alt="GitHub Trophies" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br>
 
-<div align="center">
-  <!-- الصف الثاني -->
-  <div>
-    <h4>🔥 Streak</h4>
-    <img src="https://streak-stats.demolab.com?user=Bayanalharbi1&theme=radical&hide_border=false" height="150" alt="GitHub Streak" />
-  </div>
-
-  <div>
-    <h4>🏆 Trophies</h4>
-    <img src="https://github-profile-trophy.vercel.app?username=Bayanalharbi1&theme=radical&no-bg=false&no-frame=false&row=1&column=4" height="150" alt="GitHub Trophies" />
-  </div>
-</div>

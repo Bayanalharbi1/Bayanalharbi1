@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bayanalharbi1&theme=nightowl&area=true&hide_border=false" height="300" alt="activity-graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bayanalharbi1&theme=nightowl&area=true&hide_border=false" height="300" alt="GitHub Activity Graph" />
 </div>
 
 <h2 align="center">🛠 My Tech Stack</h2>
@@ -14,7 +14,7 @@
 <table align="center">
 <tr>
 <td align="center" width="33%">
-  
+
 ### 🌐 Front-End  
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vue,bootstrap,tailwind" height="45" />
 <br>
@@ -22,7 +22,7 @@
 
 </td>
 <td align="center" width="33%">
-  
+
 ### 🔗 Back-End  
 <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,nodejs,express,php,laravel" height="45" />
 <br>
@@ -30,7 +30,7 @@
 
 </td>
 <td align="center" width="33%">
-  
+
 ### 🗄 Databases  
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,redis" height="45" />
 <br>
@@ -41,7 +41,7 @@
 
 <tr>
 <td align="center" width="33%">
-  
+
 ### 📊 Data Analysis  
 <img src="https://skillicons.dev/icons?i=python,r,tensorflow" height="45" />
 <br>
@@ -49,7 +49,7 @@
 
 </td>
 <td align="center" width="33%">
-  
+
 ### ⚙ Tools & Platforms  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker" height="45" />
 <br>
@@ -57,7 +57,7 @@
 
 </td>
 <td align="center" width="33%">
-  
+
 ### ☁ Cloud & Deployment  
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,netlify,heroku" height="45" />
 
@@ -66,7 +66,7 @@
 
 <tr>
 <td colspan="3" align="center">
-  
+
 ### 🧬 Bioinformatics  
 <strong>Genomics | Proteomics | Data-driven Biological Analysis</strong>
 
@@ -89,20 +89,14 @@
       <td align="center" style="padding: 15px;">
         <h4>🔥 GitHub Stats</h4>
         <img src="https://github-readme-stats.vercel.app/api?username=Bayanalharbi1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false" height="150" alt="GitHub Stats" />
-        
-        <h4>🌐 Top Languages</h4>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bayanalharbi1&layout=compact&langs_count=8&card_width=320&theme=radical&hide_border=false" height="150" alt="Top Languages" />
-      </td>
 
-      <td align="center" style="padding: 15px;">
-        <h4>🔥 Streak</h4>
-        <img src="https://streak-stats.demolab.com?user=Bayanalharbi1&theme=radical&hide_border=false" height="150" alt="GitHub Streak" />
-        
-        <h4>🏆 Trophies</h4>
-        <img src="https://github-profile-trophy.vercel.app?username=Bayanalharbi1&theme=radical&no-bg=false&no-frame=false&row=1&column=4" height="150" alt="GitHub Trophies" />
-      </td>
-    </tr>
-  </table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=m0ohannad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m0ohannad&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  
+  <img src="https://streak-stats.demolab.com?user=m0ohannad&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
+  
+  <img src="https://github-profile-trophy.vercel.app?username=m0ohannad&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="GitHub Trophies" />
 </div>
-
 

@@ -83,15 +83,15 @@
 
 <h2 align="center">📊 My GitHub Stats</h2>
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Bayanalharbi1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bayanalharbi1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="200" alt="GitHub Stats" />
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bayanalharbi1&layout=compact&langs_count=8&card_width=320&theme=dracula&hide_border=false" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bayanalharbi1&layout=compact&langs_count=8&card_width=320&theme=dracula&hide_border=false" height="200" alt="Top Languages" />
 
   <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=Bayanalharbi1&theme=dracula&hide_border=false" height="170" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Bayanalharbi1&theme=dracula&hide_border=false" height="200" alt="GitHub Streak" />
 </div>
 
 

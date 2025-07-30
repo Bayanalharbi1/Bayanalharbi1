@@ -94,9 +94,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=m0ohannad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m0ohannad&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-  
-  <img src="https://streak-stats.demolab.com?user=m0ohannad&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
-  
+    
   <img src="https://github-profile-trophy.vercel.app?username=m0ohannad&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="GitHub Trophies" />
 </div>
 
